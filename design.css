@@ -1,6 +1,7 @@
 body{
 	font-family: verdana;
-	background-image: url(Imagens/fundo.jpg);
+	background: url(Imagens/fundo.jpg);
+	background-repeat: no-repeat;
 	background-size: cover;
 	color:  white;
 	text-align: center;
