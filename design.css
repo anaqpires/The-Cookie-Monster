@@ -1,0 +1,93 @@
+body{
+	font-family: verdana;
+	background-image: url(Imagens/fundo.jpg);
+	background-size: cover;
+	color:  white;
+	text-align: center;
+}
+
+h1{
+font-size: 50px;
+font-weight: bold;
+text-align: center;
+text-shadow: 1px 1px black;
+padding-top: 25px;
+}
+
+p{
+	font-size: 15px;
+	padding: 0px 15px 0px 15px;
+	text-align: justify;
+	margin-bottom: 40px;
+}
+.hello{
+	text-align: center;
+	font-size: 25px;
+	marker-end:1px;
+	margin-bottom: 0px;
+}
+
+h3{
+	font-size: 25px;
+	text-align: left;
+	padding-top: 10px;
+	padding-left: 10px;
+	text-shadow: 1px 1px black;
+	text-decoration: underline;
+	margin-top: 2px;
+	margin-bottom: 2px;
+}
+
+
+li{
+	padding-bottom: 25px;
+}
+.lista{
+	list-style: none;
+	text-align: left;
+	margin-top: 15px;
+	padding-left: 45px;
+	font-size: 15px;
+
+}
+
+.lista a{
+	text-decoration: none;
+	color: white;
+	letter-spacing: 1px;
+}
+a:hover{
+	color: grey;
+}
+.botao{
+	text-decoration: none;
+	margin-top: 0;
+	background-color: rgb(123,61,17);
+	color: black;
+	padding: 8px 8px 8px 8px;
+	border-radius: 4px;
+}
+.botao:hover{
+	color: white;
+	background-color: rgb(191,96,0);
+}
+.redes{
+	list-style: none;
+	padding-left: 0px;
+	text-align: center;
+	margin-top: 80px;
+}
+.redes li{
+	display: inline;
+	padding-right: 10px;
+	font-size: 25px;
+}
+.redes i{
+	color: white;	
+}
+}
+
+
+ 
+
+
